@@ -1,8 +1,8 @@
 {
-  "name": "js-task-boilerplate",
+  "name": "map-of-people",
   "version": "1.0.0",
-  "description": "js task boilerplate",
-  "main": "src/sum.js",
+  "description": "Map of people",
+  "main": "src/mapOfPeople.js",
   "scripts": {
     "test": "jest",
     "lint": "eslint **/*.js"
